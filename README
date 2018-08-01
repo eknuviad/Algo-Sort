@@ -1,0 +1,6 @@
+README
+...........................................................................
+
+This is a sorting algorithm I developed that mainly implements the binary tree
+and Stack data structures. The goal is to arrange names in a file in both
+ascending and descending order.
